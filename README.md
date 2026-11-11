@@ -1,17 +1,7 @@
 
-# 📱 Asistencia Digital
+#Asistencia Digital
+🚧 WORK IN PROGRESS 🚧
 
-<p align="center">
-  <strong>🚧 WORK IN PROGRESS 🚧</strong>
-</p>
-
-<p align="center">
-  Sistema de asistencia digital mediante códigos QR y firma electrónica.
-</p>
-
----
-
-## 🖥️ Preview
 
 <pre align="center">
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⡇⠛⠛⠿⡿⡟⠻⣻⣿⠛⠛⠟⠛⠛⠛⠃⠙⠛⣛
@@ -40,11 +30,5 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣷⣦⣄⠱⠶⣶⣤⣌⠙⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣦⡿⠉⢠⣾⣿⣿⣿⢌⣇⢻⣿⣿⣿⣷
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡙⠻⠿⠶⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡏⠁⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 </pre>
-
----
-
-## 📌 Estado del proyecto
-
-**En desarrollo (Work in Progress).**
 
 
